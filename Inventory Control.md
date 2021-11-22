@@ -37,4 +37,4 @@ What is `Inventory Management` ?
 ### 3. `LIFO` : `Last In First Out`
 - The most recently acquired product is also the first to be sold.
 - Most recent pricing is used to determine the value of merchandise that has been sold.
-- Most recently purchased inventory will also be the highest cost (Yields lower profits so lower taxable income)
+- Most recently purchased inventory will also be the highest cost (Yield lower profits so lower taxable income)
