@@ -18,3 +18,23 @@ What is `Inventory Management` ?
 
 ### Inventory
 - Products that you've already paid for, but when it's sitting on shelves or in a warehouse, it's not making money.
+- Effective inventory management can lead to better `cash flow` and increase your `bottom line`
+- `Bottom line` : The final total of an account or balance sheet.
+
+### 1. Establish `PAR` : `Periodic Automatic Replacement` Level :
+- A system for figuring out the minimum level of inventory you need on hand for a given period of time.
+- Stock is ordered when it dips below it's predetermined level, which vary by product.
+- Levels are based on how quickly the item sells and how long it takes to get back in stock.
+- Identifying the ideal `PAR` levels is not always easy and dependent on a lot of influencing factors.
+
+### 2. `FIFO` : `First In First Out`
+- Most straightforward approach to control stock (Oldest stock get sold first)
+- Critical for perishable products to avoid spoilage. Also good for non perishable items.
+- Things like packaging design and features changes over time.
+- Older items carry lower cost as compared to the items launched or purchased recently.
+- So with the lower cost that products are sold more and you can have higher profits.
+
+### 3. `LIFO` : `Last In First Out`
+- The most recently acquired product is also the first to be sold.
+- Most recent pricing is used to determine the value of merchandise that has been sold.
+- Most recently purchased inventory will also be the highest cost (Yields lower profits so lower taxable income)
