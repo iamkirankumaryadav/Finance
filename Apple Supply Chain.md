@@ -32,3 +32,14 @@
 
 After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge profit by increasing the volume of units.
 - Flipkart Sales in October month (Mostly people get there bonus and incentive in the month of september month)
+
+### Apple's Simple Supply Chain Structure
+
+1. `Supplier` : Person or company, that `sells` or `supplies` products to customers.
+2. `Manufacture` : Person or company that `manufactures` products for sale.
+3. `Product` : Substance that is manufactured for sale.
+4. `Inventory` : A complete list of items such as products in stock.
+5. `Distribution` : Action of `sharing` products out among a number of recipients.
+6. `Logistic` : `Managing` how resources are `acquired`, `stored`, and `transported` to destination.
+7. `Retail` : Retail is the `sale` of products to consumers and customers.
+8. `Customer` : Individual or business that purchases another company's products.
