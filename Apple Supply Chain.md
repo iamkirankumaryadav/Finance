@@ -36,8 +36,14 @@ After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge
 ### Apple's Simple Supply Chain Structure
 
 1. `Supplier` : Person or company, that `sells` or `supplies` products to customers.
-2. `Manufacture` : Person or company that `manufactures` products for sale.
+- Taiwan, China and Japan are top suppliers.
+
+2. `Manufacture` : Person or company that `manufactures` products for sale (Foxconn)
+- Foxconn
+
 3. `Product` : Substance that is manufactured for sale.
+- MacBook Pro & Air, Ipad, Iphone, Watch, Mac, IPods, AirPods, HomePods and Accessories.
+
 4. `Inventory` : A complete list of items such as products in stock.
 5. `Distribution` : Action of `sharing` products out among a number of recipients.
 6. `Logistic` : `Managing` how resources are `acquired`, `stored`, and `transported` to destination.
