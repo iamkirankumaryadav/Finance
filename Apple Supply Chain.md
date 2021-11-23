@@ -30,5 +30,5 @@
  9. Products are sold near the entrance area of the shop.
  10. This synchronization helps to create a historical launch and boosts the first day sales.
 
-Even after `6 Months`, Apple brings down the prices by almost `40%` and yet generate huge profit by increasing the volume of units.
+After `6 Months`, Apple brings down the prices by almost `40%` and yet generate huge profit by increasing the volume of units.
 - Flipkart Sales in October month (Mostly people get there bonus and incentive in the month of september month)
