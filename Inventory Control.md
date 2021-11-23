@@ -61,4 +61,4 @@ What is `Inventory Management` ?
 - `Planned end of month inventory` : A forecast of balance inventory at end of month.
 - `End of month` inventory `carries` over to `beginning of month` inventory for the next month.
 
-`OTB` = `Planned Sales` + `Planned Markdown` + `Planned End of Month Inventory` - `Planned Beginning of Month Inventory`
+`OTB` = `Planned Sales` + `Planned Markdown` + `End of Month Inventory` - `Beginning of Month Inventory`
