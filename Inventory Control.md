@@ -48,3 +48,9 @@ What is `Inventory Management` ?
 - You can plan merchandising budgets for future items based on historical data of how well products have sold.
 - `Merchandising` : Activity of promoting the sale of product (Especially by their presentation in retail outlets)
 - `Merchandising Budget` : How much the company expects to `sell` as well as how many goods it plans to `purchase`
+- e.g : Summer Discounts, End of Season Sales, Festival Season Sales (Most of the sales are in Sept and Oct)
+
+`OTB` formula
+- Helps to create `forecasts` for your otb plan.
+- `Values` in OTB are projections, so they may not be perfectly accurate.
+- Planned beginning of month inventory : How much retail inventory you expect to have at the beginning of the month ?
