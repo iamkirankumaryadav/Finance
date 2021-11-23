@@ -38,3 +38,13 @@ What is `Inventory Management` ?
 - The most recently acquired product is also the first to be sold.
 - Most recent pricing is used to determine the value of merchandise that has been sold.
 - Most recently purchased inventory will also be the highest cost (Yield lower profits so lower taxable income)
+
+### 4. `OTB` : `Open To Buy`
+- Helps to determine the amount of inventory (`On Hand` + `In transit`) that you will need to purchase (buy) to meet customer demand while maintaining a positive cash flow.
+- `On Hand` : The amount of stock items available to a `retail outlet` or `eCommerce website`
+- `In Transit` (Transportation inventory) : Any good shipped by a seller but not yet received by a buyer.
+- Determine planned sales : Based on history and other factors, `forecast` your sales for the month.
+- `OTB` is especially useful for retailers selling large number of SKU's.
+- You can plan merchandising budgets for future items based on historical data of how well products have sold.
+- `Merchandising` : Activity of promoting the sale of product (Especially by their presentation in retail outlets)
+- `Merchandising Budget` : How much the company expects to `sell` in the new season as well as how many goods it plans to `purchase`
