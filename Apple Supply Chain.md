@@ -51,5 +51,7 @@ After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge
 - Online Store (China), Retail Store (California), Direct Sales Force and Third Party Wholesaler.
 
 6. `Logistic` : `Managing` how resources are `acquired`, `stored`, and `transported` to destination.
+- FedEx
+
 7. `Retail` : Retail is the `sale` of products to consumers and customers.
 8. `Customer` : Individual or business that purchases another company's products.
