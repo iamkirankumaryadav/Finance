@@ -46,6 +46,8 @@ After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge
 
 4. `Inventory` : A complete list of items such as products in stock.
 5. `Distribution` : Action of `sharing` products out among a number of recipients.
+- Online Store (China), Retail Store (California), Direct Sales Force and Third Party Wholesaler.
+
 6. `Logistic` : `Managing` how resources are `acquired`, `stored`, and `transported` to destination.
 7. `Retail` : Retail is the `sale` of products to consumers and customers.
 8. `Customer` : Individual or business that purchases another company's products.
