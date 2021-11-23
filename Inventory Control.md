@@ -1,4 +1,4 @@
-### 8 Inventory Control Methods
+### Inventory Control Methods
 
 To keep your store in top shape.
 
@@ -62,3 +62,27 @@ What is `Inventory Management` ?
 - `End of month` inventory `carries` over to `beginning of month` inventory for the next month.
 
 `OTB` = `Planned Sales` + `Planned Markdown` + `End of Month Inventory` - `Beginning of Month Inventory`
+
+`Benefits` of OTB Planning
+- Having too much inventory : You loose money by keeping items in expensive storage or distribution centers.
+- Having too low inventory : "Sorry, this product is out of stock", Inventory shortage happens.
+
+```
+If you have more inventory than you need, you are wasting money, space and employee caring for that inventory.
+```
+
+### 5. Accurately Predict Demand
+- Forecasting demand is a critical part in inventory management.
+- There are countless factors and you can never be completely sure what's coming.
+- Important factors to consider while forecasting.
+- 1. Market `Trends`
+- 2. Last year's sales at the same time.
+- 3. Growth Rate of the current year.
+- 4. `Seasonality`
+- 5. Overall state of economy.
+- 6. Guranteed sales from contracts.
+- 7. Planned `promotions` and `AD` spend.
+
+### The Bottom Line 
+- With proper inventory management system, you can do everything from reducing overall costs and predicting future sales to preparing you business for the unexpected (Lockdown due to COVID) and keeping your business profitable.
+- There is `no one best` technique. By trying some of ones we can find out what works best for business.
