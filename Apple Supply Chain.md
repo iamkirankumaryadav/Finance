@@ -35,6 +35,8 @@ After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge
 
 ### Apple's Simple Supply Chain Structure
 
+![Apple Supply Chain Management](AppleSCM.png)
+
 1. `Supplier` : Person or company, that `sells` or `supplies` products to customers.
 - Taiwan, China and Japan are top suppliers.
 
