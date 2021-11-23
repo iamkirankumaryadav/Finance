@@ -47,6 +47,8 @@ After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge
 - MacBook Pro & Air, Ipad, Iphone, Watch, Mac, IPods, AirPods, HomePods and Accessories.
 
 4. `Inventory` : A complete list of items such as products in stock.
+- Orders and Stocks. 
+
 5. `Distribution` : Action of `sharing` products out among a number of recipients.
 - Online Store (China), Retail Store (California), Direct Sales Force and Third Party Wholesaler.
 
