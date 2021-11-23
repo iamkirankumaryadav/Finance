@@ -53,4 +53,12 @@ What is `Inventory Management` ?
 `OTB` formula
 - Helps to create `forecasts` for your otb plan.
 - `Values` in OTB are projections, so they may not be perfectly accurate.
-- Planned beginning of month inventory : How much retail inventory you expect to have at the beginning of the month ?
+- `Planned beginning of month inventory` : How much retail inventory you expect to have at the `beginning` of the `month` ?
+- `Planned sales` : How much retail sales you `forecast` during a given `month`
+- `Planned markdowns` : A projection of product markdowns.
+- `Markdown` : A permanent price decrease for a product that is at the end of its lifecycle (seasonality)
+- `Planned OTB` : The amount that you have available to buy more inventory at enf of the month.
+- `Planned end of month inventory` : A forecast of balance inventory at end of month.
+- `End of month` inventory `carries` over to `beginning of month` inventory for the next month.
+
+`OTB` = `Planned Sales` + `Planned Markdown` + `Planned End of Month Inventory` - `Planned Beginning of Month Inventory`
