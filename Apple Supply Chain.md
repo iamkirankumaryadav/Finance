@@ -1,5 +1,7 @@
 # Apple Supply Chain Operation 
 
+`Apple` has been recognized as having the best worldwide supply chains in the `Gartner Global Supply Chain`
+
 `Apple's Online Store`
 - Apple purchases components and materials from various `suppliers`
 - Then gets them shipped to the assembling plant in `China`
@@ -59,3 +61,32 @@ After `6 Months`, Apple brings down prices by almost `40%` and yet generate huge
 - Apple retail stores (Maple)
 
 8. `Customer` : Individual or business that purchases another company's products.
+
+Apple maintains `high prices` for its products and even though it makes great efforts to increase supply of the products, the supply continues to fall short of the demand for the products.
+
+Due to increasing `demand` for its products, Apple constantly improves its `supply` capabilities.
+
+### Why is Apple's Supply Chain the best ?
+- Strong supplier relationships by focusing on maintaining strong relationships with its supply chain partners.
+- Apple can provide great flexibility in response to demand surges.
+- Large production capacity, allows them to provide products when and where customers want them.
+
+### Factors that drive Apple Supply Chain performance 
+- Customer's first.
+- Exceptional inventory management.
+- Outsourcing manufacturing : Process of hiring people outside of your company to assemble parts or to build an entire product.
+- Evolve Supply Chain 
+- Adapt customer demands.
+
+### How does Apple manage quality ?
+- Company use 4 basic tools of `TQM` : Total Quality Management.
+ 1. Control Chart
+ 2. Pareto Chart
+ 3. Cause & Effect diagram
+ 4. Histogram
+- `TQM` enables the company to bring all the stakeholders together.
+
+### Where does Apple get its raw materials >
+- `Gold` from `Peru`   
+- `Copper` from `Chile`
+- Many raw materials and minerals extracted from all over the world.
