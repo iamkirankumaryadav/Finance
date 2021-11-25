@@ -86,7 +86,7 @@ Due to increasing `demand` for its products, Apple constantly improves its `supp
  4. Histogram
 - `TQM` enables the company to bring all the stakeholders together.
 
-### Where does Apple get its raw materials >
+### Where does Apple get its raw materials ?
 - `Gold` from `Peru`   
 - `Copper` from `Chile`
 - Many raw materials and minerals extracted from all over the world.
