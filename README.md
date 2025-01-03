@@ -19,3 +19,11 @@ Fully automated trading system offering equities, equity derivatives, commoditie
 3. **Diversification:** Mutual funds provide diversification, which can reduce risk.
 4. **Accessibility:** Investors who prefer a more hands-off approach and don't have the time or expertise to manage individual investments.
 5. **Types:** There are various types of mutual funds, such as equity funds, debt funds, hybrid funds, etc.
+
+Aspect | Stocks	| Mutual Funds
+:--- | :--- | :---
+Ownership |	Yes	|	No
+Risk | Medium to High |	Low to Medium
+Management | Self-managed	| Professionally managed
+Diversification | Limited |	High
+Investment Horizon | Flexible	| Medium-term to Long-term
