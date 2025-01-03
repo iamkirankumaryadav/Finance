@@ -1,14 +1,21 @@
 # Finance
-`Financial Analysis`
 
-- The process of evaluating `business`, `projects`, `budgets` and `finance` related transactions.
-- Determines the performance and suitability.
-- Typically finance analysis is used to analyze whether an entity is stable, solvent, liquid or profitable enough.
+BSE | NSE
+:--- | :---
+Bombay Stock Exchange (1875, Mumbai) | National Stock Exchange (1992, Mumbai)
+Benchmark Index: Sensex (30 Companies) | Benchmark Index: Nifty 50 (50 Companies)
 
-`Benefits`
-- Help fund managers make future business decisions or review historical trends for past success.
-- Help investors choose the best possible investment opportunities.
+Fully automated trading system offering equities, equity derivatives, commodities, currency derivatives
 
-`Understanding` Financial Analysis
-- Financial analysis is used to evaluate economic trends, set financial policy, build long-term plans for business activity, and identify projects or companies for investment. This is done through the synthesis of financial numbers and data. A financial analyst will thoroughly examine a company's financial statements, the income statement, balance sheet, and cash flow statement. 
+### Stocks
+1. **Ownership:** When you buy a stock, you are purchasing a share of ownership in a company.
+2. **Returns:** Your returns depend on the company's performance. If the company does well, the value of your stock increases.
+3. **Risk:** Stocks can be volatile, and their value can fluctuate significantly in the short term.
+4. **Trading:** Stocks are traded on stock exchanges (like BSE and NSE).
 
+### Mutual Funds
+1. **Pooling:** MFs pool money from many investors to invest in a diversified portfolio of stocks, bonds, or other securities.
+2. **Management:** They are managed by professional fund managers.
+3. **Diversification:** Mutual funds provide diversification, which can reduce risk.
+4. **Accessibility:** Investors who prefer a more hands-off approach and don't have the time or expertise to manage individual investments.
+5. **Types:** There are various types of mutual funds, such as equity funds, debt funds, hybrid funds, etc.
