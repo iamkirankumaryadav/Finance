@@ -27,3 +27,23 @@ Fully automated trading system offering equities, equity derivatives, commoditie
 **Management** | Self-managed	| Professionally managed
 **Diversification** | Limited |	High
 **Investment Horizon** | Flexible	| Medium-term to Long-term
+
+### Type of Tradings
+
+1. **Delivery Trading:**
+- Definition: You buy shares and hold them for a longer period.
+- Objective: Long-term investment.
+- Settlement: The transaction is completed in two business days.
+- Ownership: Shares are transferred to your demat account.
+
+2. **Intraday Trading:**
+- Definition: You buy and sell shares within the same trading day.
+- Objective: Profit from short-term price movements.
+- Settlement: No actual transfer of shares as positions are squared off before the market closes.
+- Risk: Higher due to market volatility within the day.
+
+3. **Margin Trading Facility (MTF):**
+- Definition: Allows you to buy shares with borrowed funds from your broker.
+- Objective: Increase purchasing power and potentially enhance returns.
+- Leverage: Brokerage provides a loan against your existing securities.
+- Interest: Charged on the borrowed amount, and you need to maintain a minimum margin.
